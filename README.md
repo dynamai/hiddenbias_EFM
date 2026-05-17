@@ -8,6 +8,7 @@ The above message is valid for both neural and empirical FM sampler. The animati
 
 ![overview](assets/overview.gif)
 
+Here is the [Colab notebook](https://colab.research.google.com/drive/1s7cbgroZA7JRs1SRAGLcwjE-XXthXXjk?usp=sharing) that produces the above animations and the plots in the paper.
 
 ## **Citation**
 If you find our work useful for your research, please consider citing our paper:

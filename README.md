@@ -4,7 +4,7 @@ Flow matching (FM) constructs continuous-time ODE samplers by prescribing probab
 
 🔑 **We know that an ODE sampler can often be paired with an SDE sampler that realizes the same marginal density path. The flux-null vector field correction reveals another axis of freedom: even after restricting ourselves to purely deterministic ODE dynamics, we can modify the particle trajectories and kinetic-energy tail behavior while preserving the same one-time marginals** 😮 
 
-The above message is true for both neural and empirical FM sampler. The animations shown below are obtained with empirical FM samplers which our paper focus on:
+The above message is valid for both neural and empirical FM sampler. The animations shown below are obtained with empirical FM samplers which our paper focus on:
 
 ![overview](assets/overview.gif)
 
